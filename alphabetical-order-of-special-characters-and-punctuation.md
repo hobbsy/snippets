@@ -20,7 +20,7 @@ $
 \. (period)  
 /  
 
-0-9 (numbers]
+0-9 (numbers)
 
 :  
 ;  
