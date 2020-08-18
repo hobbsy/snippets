@@ -3,21 +3,21 @@ Useful for example when naming folders or labels and you want to appear at the t
 I haven't verified this list yet, but I found it via a DDG search
 
 
- [space]
+ (space)
 !
 "
 #
 $
 %
 &
-' [apostrophe]
+' (apostrophe)
 (
 )
 *
 +
-, [comma]
-- [dash]
-. [period]
+, (comma)
+- (dash)
+. (period)
 /
 0
 1
@@ -66,8 +66,8 @@ Z
 \
 ]
 ^
-_ [underline]
-` [ticmark]
+_ (underline)
+` (ticmark)
 a
 b
 c
