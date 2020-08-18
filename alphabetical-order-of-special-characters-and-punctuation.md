@@ -62,9 +62,10 @@ W
 X  
 Y  
 Z  
-
-
-^  
+\[  
+\\  
+\]  
+\^  
 \_ (underline)  
 \` (ticmark)  
 a  
@@ -94,9 +95,9 @@ x
 y  
 z  
 \}  
-|  
+\|  
 \{  
-~  
+\~  
 DEL  
 
 sources:  
