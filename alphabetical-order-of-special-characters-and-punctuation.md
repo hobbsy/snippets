@@ -3,13 +3,13 @@ Useful for example when naming folders or labels and you want to appear at the t
 I haven't verified this list yet, but I found it via a DDG search
 
 
- (space)  
+(space)  
 \!  
 "  
 \#  
 $  
-%
-&
+%  
+&  
 ' (apostrophe)  
 \(  
 \)  
@@ -32,7 +32,7 @@ $
 :  
 ;  
 <  
-=  
+\=  
 >  
 ?  
 @  
