@@ -4,20 +4,20 @@ I haven't verified this list yet, but I found it via a DDG search
 
 
  (space)  
-!  
+\!  
 "  
-#  
+\#  
 $  
 %
 &
 ' (apostrophe)  
-(  
-)  
-*  
-+  
+\(  
+\)  
+\*  
+\+  
 , (comma)  
-- (dash)  
-. (period)  
+\- (dash)  
+\. (period)  
 /  
 0  
 1  
@@ -62,12 +62,11 @@ W
 X  
 Y  
 Z  
-  
----
+
 
 ^  
-_ (underline)  
-` (ticmark)  
+\_ (underline)  
+\` (ticmark)  
 a  
 b  
 c  
@@ -94,9 +93,9 @@ w
 x  
 y  
 z  
-}  
+\}  
 |  
-{  
+\{  
 ~  
 DEL  
 
