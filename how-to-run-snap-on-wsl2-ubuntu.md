@@ -1,6 +1,7 @@
 ## How to install snap programmes on WSL2 Ubuntu 20.04 LTS
 
 **IMPORTANT: Do not blindly follow these instructions below as they didn't work out for me**
+
 Read through the whole page before typing in any commands, I am not responsible for this breaking your system (as it did for me)
 
 
