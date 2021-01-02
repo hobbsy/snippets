@@ -17,6 +17,15 @@ I was then able to install get-iplayer on WSL2 Ubuntu using
 sudo snap install get-iplayer
 ```
 
+edit - although it worked once, when you close down your WSL2 window it seems to give an error next time you run WSL2:
+
+*get-iplayer*
+
+```
+internal error, please report: running "get-iplayer" failed: cannot find installed snap "get-iplayer" at revision 250: missing file /snap/get-iplayer/250/meta/snap.yaml
+```
+
+
 Futher reading:
 
 https://discourse.ubuntu.com/t/using-snapd-in-wsl2/12113
