@@ -64,6 +64,26 @@ cannot perform operation: mount --rbind /dev /tmp/snap.rootfs_l9mHp2//dev: No su
 at this point I am stuck... please drop me a Tweet @hobbsy if you can help :)
 
 
+to disable the script I tried editing bash.bashrc to comment out (add a # at start of line)
+
+```
+nano /etc/bash.bashrc
+```
+
+```
+# Start or enter a PID namespace in WSL2
+source /usr/sbin/start-systemd-namespace
+```
+add a # in front of line starting source
+
+eg.
+
+```
+# Start or enter a PID namespace in WSL2
+# source /usr/sbin/start-systemd-namespace
+```
+
+
 **Futher reading:**
 
 https://discourse.ubuntu.com/t/using-snapd-in-wsl2/12113
