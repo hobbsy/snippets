@@ -84,7 +84,8 @@ eg.
 ```
 
 I have a feeling I may have not have properly followed the instructions for installing get_iplayer as a snap.
-See the [Unix install notes on the get-iplayer Github](https://github.com/get-iplayer/get_iplayer/wiki/unixpkg)
+
+See the [Unix install notes on the get-iplayer Github](https://github.com/get-iplayer/get_iplayer/wiki/unixpkg) and scroll down past the section **Distros with snap support**
 
 ```
 IMPORTANT: The default get_iplayer profile directory will be $HOME/snap/get-iplayer/common/.get_iplayer rather than $HOME/.get_iplayer ($HOME is set to the value of $SNAP_USER_COMMON in the snap environment). Immediately after upgrading from a PPA version to the snap version, you must move or copy the contents of your profile directory to the location used by the snap version:
