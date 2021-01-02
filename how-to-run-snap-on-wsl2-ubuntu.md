@@ -4,6 +4,7 @@
 
 Read through the whole page before typing in any commands, I am not responsible for this breaking your system (as it did for me)
 
+**My Notes**
 
 To install and run [snap](https://snapcraft.io/install/get-iplayer/ubuntu) programmes on Ubuntu 20.04.1 LTS under WSL2 on Windows 10 x86_64 (eg. for programmes like [get-iplayer](https://github.com/get-iplayer/get_iplayer)) I used the following code by sunliusi found [here](https://github.com/microsoft/WSL/issues/5126#issuecomment-653715201) to get snap up and running:
 
@@ -60,10 +61,10 @@ but now when I run 'get-iplayer' I see the error:
 cannot perform operation: mount --rbind /dev /tmp/snap.rootfs_l9mHp2//dev: No such file or directory
 ```
 
-at this point I am stuck...
+at this point I am stuck... please drop me a Tweet @hobbsy if you can help :)
 
 
-Futher reading:
+**Futher reading:**
 
 https://discourse.ubuntu.com/t/using-snapd-in-wsl2/12113
 
