@@ -91,6 +91,7 @@ https://discourse.ubuntu.com/t/using-snapd-in-wsl2/12113
 https://forum.snapcraft.io/t/running-snaps-on-wsl2-insiders-only-for-now/13033
 
 https://github.com/DamionGans/ubuntu-wsl2-systemd-script
+https://github.com/diddledan/ubuntu-wsl2-systemd-script
 
 https://www.youtube.com/watch?v=cWlYe0CE2iU&feature=youtu.be
 
