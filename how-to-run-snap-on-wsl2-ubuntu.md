@@ -132,3 +132,8 @@ https://gitlab.com/relief-melone/wsl-initial-setup
 https://snapcraft.ninja/2020/08/06/starting-systemd-in-wsl-when-you-login-to-windows-youll-be-astounded-by-the-speed-improvement/
 
 https://github.com/arkane-systems/genie
+
+https://github.com/microsoft/WSL/issues/994
+https://github.com/microsoft/WSL/issues/5126
+
+
