@@ -83,6 +83,36 @@ eg.
 # source /usr/sbin/start-systemd-namespace
 ```
 
+I have a feeling I may have not have properly followed the instructions for installing get_iplayer as a snap.
+See the [Unix install notes on the get-iplayer Github](https://github.com/get-iplayer/get_iplayer/wiki/unixpkg)
+
+```
+IMPORTANT: The default get_iplayer profile directory will be $HOME/snap/get-iplayer/common/.get_iplayer rather than $HOME/.get_iplayer ($HOME is set to the value of $SNAP_USER_COMMON in the snap environment). Immediately after upgrading from a PPA version to the snap version, you must move or copy the contents of your profile directory to the location used by the snap version:
+
+code starts:
+
+ # run once to ensure snap version initialises profile directory
+  get_iplayer
+  # move/copy contents of profile directory
+  mv ~/.get_iplayer/* ~/snap/get-iplayer/common/.get_iplayer
+  # OR
+  cp -r ~/.get_iplayer/* ~/snap/get-iplayer/common/.get_iplayer
+
+code ends
+ 
+
+If an "ERROR: Cannot read options file: /etc/get_iplayer/options" message appears when you run the snap version, remove the indicated directory (it is not required by get_iplayer):
+
+  sudo rm -fr /etc/get_iplayer
+
+get_iplayer will not be able to create files on removable devices mounted under /media, /run/media or /mnt unless the snap's "removable-media" interface is connected:
+
+  sudo snap connect get-iplayer:removable-media
+
+You can also select "Read/write files on removable storage devices" in the permissions for get-iplayer in the Ubuntu Software/Snap Store desktop application (if available) after installation. If your removable device is mounted in another location, you may be able to use a bind mount to access it somewhere under your home directory.
+
+``` 
+
 
 **Futher reading/bookmarks:**
 
