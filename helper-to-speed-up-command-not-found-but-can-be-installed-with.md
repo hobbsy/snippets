@@ -17,4 +17,4 @@ Much like the times when I enter a command and forget to add sudo at the start, 
 
 I wonder if when you type in a programme name that isn't yet installed, is there a command to grab the suggested installation line and run it? (eg. ``sudo apt install neofetch``)
 
-Let me know via Twitter @hobbsy
+Let me know via Twitter @hobbsy if you have any suggestions :)
