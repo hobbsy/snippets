@@ -96,3 +96,5 @@ https://github.com/diddledan/ubuntu-wsl2-systemd-script
 https://www.youtube.com/watch?v=cWlYe0CE2iU&feature=youtu.be
 
 https://gitlab.com/relief-melone/wsl-initial-setup
+
+https://snapcraft.ninja/2020/08/06/starting-systemd-in-wsl-when-you-login-to-windows-youll-be-astounded-by-the-speed-improvement/
