@@ -113,6 +113,7 @@ get_iplayer will not be able to create files on removable devices mounted under 
 You can also select "Read/write files on removable storage devices" in the permissions for get-iplayer in the Ubuntu Software/Snap Store desktop application (if available) after installation. If your removable device is mounted in another location, you may be able to use a bind mount to access it somewhere under your home directory.
 
 ``` 
+actually that might not be relevant as I am not upgrading from a PPA install to a snap install...
 
 
 **Futher reading/bookmarks:**
