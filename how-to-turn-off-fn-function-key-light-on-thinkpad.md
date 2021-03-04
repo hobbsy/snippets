@@ -8,17 +8,18 @@ will toggle between the light being on and off.
 
 
 Lenovo Hardware Maintenance Manual for the X1C3 - PDF link:  
-https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
+* https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
 Personal Systems Reference (PSREF) for X1C3:  
-https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf
+* https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf
 
 Hardware manual:  
-https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065_01.pdf
-https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
+* https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065_01.pdf
+* https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
 User Guide:  
-https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf?linkTrack=PSP:ProductInfo:UserGuide
+https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf
+
 
 Other X1C3 links:  
 * https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt
