@@ -11,7 +11,7 @@ will toggle between the light being on and off.
 
 ### Hardware Maintenance Manual (HMM) for the X1C3 [PDF]:
 * (2nd Ed, July 2015): https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065_01.pdf
-* (1st Ed?): https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
+* (1st Ed, Dec 2014): https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
 ### Personal Systems Reference (PSREF) for X1C3 [PDF]:  
 * https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf
