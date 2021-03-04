@@ -7,21 +7,23 @@ To turn off the Fn key / function key light on a ThinkPad X1 Carbon (3rd Gen but
 will toggle between the light being on and off.
 
 
-Lenovo Hardware Maintenance Manual for the X1C3 - PDF link:  
+## Lenovo ThinkPad Carbon X1 (3rd Gen) useful links:
+
+### Lenovo Hardware Maintenance Manual for the X1C3 - PDF link:  
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
-Personal Systems Reference (PSREF) for X1C3:  
+### Personal Systems Reference (PSREF) for X1C3:  
 * https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf
 
-Hardware manual:  
+### Hardware manual:  
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065_01.pdf
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
-User Guide:  
+### User Guide:  
 https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf
 
 
-Other X1C3 links:  
+### Other X1C3 links:  
 * https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt
 * https://en.wikipedia.org/wiki/ThinkPad_X1_series#2015_%E2%80%93_3rd_generation
 * https://www.thinkwiki.org/wiki/Category:X1_Carbon_(3rd_Gen)
