@@ -9,17 +9,17 @@ will toggle between the light being on and off.
 
 ## Lenovo ThinkPad Carbon X1 (3rd Gen) useful links:
 
-### Lenovo Hardware Maintenance Manual for the X1C3 - PDF link:  
+### Lenovo Hardware Maintenance Manual for the X1C3 [PDF]:
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
-### Personal Systems Reference (PSREF) for X1C3:  
+### Personal Systems Reference (PSREF) for X1C3 [PDF]:  
 * https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf
 
-### Hardware manual:  
+### Hardware manual [PDF]:  
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065_01.pdf
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_hmm_en_sp40g55065.pdf
 
-### User Guide:  
+### User Guide [PDF]:  
 https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf
 
 
