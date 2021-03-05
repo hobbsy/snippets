@@ -19,6 +19,9 @@ will toggle between the light being on and off.
 ### User Guide for X1C3 [PDF]:  
 https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf
 
+### Parts List for X1C3 Type (20BT):
+https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt/20bt/parts/display/compatible
+
 
 ### Other X1C3 links:  
 * https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt
