@@ -19,12 +19,17 @@ will toggle between the light being on and off.
 ### User Guide for X1C3 [PDF]:  
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf
 
-### Parts List for X1C3 Type (20BT):
+### Parts List for X1C3 (Type 20BT):
 * https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt/20bt/parts/display/compatible
+
+## Knowledgebase & Guides for X1C3
+* https://support.lenovo.com/gb/en/solutions/pd100511-details-specifications-thinkpad-x1-carbon-type-20bs-20bt
+
+## Product Home for X1C3 (Type 20BT):
+* https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt/20bt
 
 
 ### Other X1C3 links:  
-* https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt
 * https://en.wikipedia.org/wiki/ThinkPad_X1_series#2015_%E2%80%93_3rd_generation
 * https://www.thinkwiki.org/wiki/Category:X1_Carbon_(3rd_Gen)
 * https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_X1_Carbon_(Gen_3)
