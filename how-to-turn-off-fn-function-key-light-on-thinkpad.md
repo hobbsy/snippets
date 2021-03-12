@@ -16,17 +16,22 @@ will toggle between the light being on and off.
 ### Personal Systems Reference (PSREF) for X1C3 [PDF]:  
 * https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf
 
+### Knowledgebase & Guides for X1C3
+* https://support.lenovo.com/gb/en/solutions/pd100511-details-specifications-thinkpad-x1-carbon-type-20bs-20bt
+
+### Product Home for X1C3 (Type 20BT):
+* https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt/20bt
+
 ### User Guide for X1C3 [PDF]:  
 * https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf
+
+### Safety and Setup Guide for X1C3 (20BS/20BT) [PDF]:
+* https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon3_sg_en__sp40j71797.pdf
 
 ### Parts List for X1C3 (Type 20BT):
 * https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt/20bt/parts/display/compatible
 
-## Knowledgebase & Guides for X1C3
-* https://support.lenovo.com/gb/en/solutions/pd100511-details-specifications-thinkpad-x1-carbon-type-20bs-20bt
 
-## Product Home for X1C3 (Type 20BT):
-* https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-20bs-20bt/20bt
 
 
 ### Other X1C3 links:  
