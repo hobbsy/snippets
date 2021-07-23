@@ -38,3 +38,8 @@ It should now work without the write permissions error.
 found via Wilf's answer on:
 https://askubuntu.com/a/633141
 
+
+Edit:- apparently this may not be a wise thing to do?
+dstftw commented on 10 Aug 2017 
+https://github.com/ytdl-org/youtube-dl/pull/13871#issuecomment-321590472
+"You should not change the owner of anything under /usr/local/bin/ while in multi-user environment that is the default."
