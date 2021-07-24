@@ -43,7 +43,13 @@ Install get_iplayer CLI script
 
 `` sudo install -m 755 ./get_iplayer /usr/local/bin ``
 
-(If /usr/local/bin is not in $PATH, use another location appropriate for your system, e.g., /usr/bin.)
+The notes say "If /usr/local/bin is not in $PATH, use another location appropriate for your system, e.g., /usr/bin."
+
+You can check what locations are in your PATH by running the command
+
+`` $PATH ``
+
+
 
 Now you should be able to use get-iplayer from the command line using
 
