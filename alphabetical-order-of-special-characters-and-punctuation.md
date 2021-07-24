@@ -1,3 +1,5 @@
+## Alphabetical order of special characters and punctuation
+
 Useful for example when naming folders or labels and you want to appear at the top of the sorted list...
 
 I haven't verified this list yet, but I found it via a DDG search
