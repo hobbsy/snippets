@@ -5,9 +5,9 @@ The easiest way to install get-iplayer on the latest Ubuntu install seems to be 
 
 `` sudo snap install get-iplayer ``
 
-source:
-https://snapcraft.io/get-iplayer
-https://snapcraft.io/install/get-iplayer/ubuntu
+source:  
+https://snapcraft.io/get-iplayer  
+https://snapcraft.io/install/get-iplayer/ubuntu  
 
 
 However - if you want to avoid using snap, you can do a manual install
@@ -55,9 +55,9 @@ Now you should be able to use get-iplayer from the command line using
 
 ``  get_iplayer  ``
 
-If you need help with basic commands you can refer to:
-https://github.com/get-iplayer/get_iplayer/wiki/tutorials
-https://www.squarepenguin.co.uk/guides/
+If you need help with basic commands you can refer to:  
+https://github.com/get-iplayer/get_iplayer/wiki/tutorials  
+https://www.squarepenguin.co.uk/guides/  
 
 or 
 
@@ -68,5 +68,5 @@ or
 
 
 references:
-https://github.com/get-iplayer/get_iplayer/wiki/installation
-https://github.com/get-iplayer/get_iplayer/wiki/unix
+https://github.com/get-iplayer/get_iplayer/wiki/installation  
+https://github.com/get-iplayer/get_iplayer/wiki/unix   
