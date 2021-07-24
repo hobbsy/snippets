@@ -18,6 +18,7 @@ source:
 https://github.com/get-iplayer/get_iplayer/wiki/unix
 
 summary of commands for Ubuntu 20.04.2
+(this will make sure you have all the dependencies and programmes required in place already)
 
 `` sudo apt install libwww-perl liblwp-protocol-https-perl libmojolicious-perl libxml-libxml-perl libcgi-pm-perl ``
 
