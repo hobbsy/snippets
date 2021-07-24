@@ -60,12 +60,28 @@ If you need help with basic commands you can refer to:
 https://github.com/get-iplayer/get_iplayer/wiki/tutorials  
 https://www.squarepenguin.co.uk/guides/  
 
-or 
+or via the command line:
 
 ` get_iplayer --help `  
 ` get_iplayer --basic-help`  
 ` get_iplayer --long-help`  
 ` man get_iplayer`  
+
+or
+
+https://github.com/get-iplayer/get_iplayer/wiki/manpage  
+https://github.com/get-iplayer/get_iplayer/wiki/options  
+https://github.com/get-iplayer/get_iplayer/wiki/webpvr  
+https://github.com/get-iplayer/get_iplayer/wiki/faq  
+https://github.com/get-iplayer/get_iplayer/wiki/search  
+
+
+
+
+a good starting command to search everything available on iPlayer TV and Radio is
+
+`` get_iplayer --type=tv,radio ".*" ``
+
 
 
 references:
