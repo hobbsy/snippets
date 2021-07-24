@@ -59,6 +59,7 @@ Now you should be able to use get-iplayer from the command line using
 If you need help with basic commands you can refer to:  
 https://github.com/get-iplayer/get_iplayer/wiki/tutorials  
 https://www.squarepenguin.co.uk/guides/  
+https://www.squarepenguin.co.uk/guides/tv-download-guide/
 
 or via the command line:
 
@@ -74,7 +75,20 @@ https://github.com/get-iplayer/get_iplayer/wiki/options
 https://github.com/get-iplayer/get_iplayer/wiki/webpvr  
 https://github.com/get-iplayer/get_iplayer/wiki/faq  
 https://github.com/get-iplayer/get_iplayer/wiki/search  
+https://github.com/get-iplayer/get_iplayer/wiki/filenames  
+https://github.com/get-iplayer/get_iplayer/wiki/prefs  
+https://github.com/get-iplayer/get_iplayer/wiki/cache  
+https://github.com/get-iplayer/get_iplayer/wiki/modes  
+https://github.com/get-iplayer/get_iplayer/wiki/record  
+https://github.com/get-iplayer/get_iplayer/wiki/modesref  
+https://github.com/get-iplayer/get_iplayer/wiki/channels  
+https://github.com/get-iplayer/get_iplayer/wiki/subparams  
+https://get-iplayer.github.io/get_iplayer/
 
+and
+
+https://forums.squarepenguin.co.uk/forum-13.html  
+https://forums.squarepenguin.co.uk/forum-14.html  
 
 
 
