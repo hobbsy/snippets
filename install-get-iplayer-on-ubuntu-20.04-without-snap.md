@@ -55,6 +55,16 @@ Now you should be able to use get-iplayer from the command line using
 
 ``  get_iplayer  ``
 
+If you need help with basic commands you can refer to:
+https://github.com/get-iplayer/get_iplayer/wiki/tutorials
+https://www.squarepenguin.co.uk/guides/
+
+or 
+
+` get_iplayer --help `
+` get_iplayer --basic-help`
+` get_iplayer --long-help`
+` man get_iplayer` 
 
 
 references:
