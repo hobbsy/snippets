@@ -1,3 +1,5 @@
+## Helper to speed up command not found but can be installed with
+
 I was wondering if there was a simple script that can grab and run the install command shown for missing programmes?
 
 
