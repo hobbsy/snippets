@@ -25,3 +25,32 @@ summary of commands for Ubuntu 20.04.2
 
 `` sudo apt install atomicparsley ffmpeg ``
 
+
+then I made a sub-directory for get-iplayer under my home directory
+~/Code/get-iplayer
+(this bit isn't necessary)
+
+`` cd ~ ``
+`` mkdir Code/get_iplayer ``
+`` cd Code/get_iplayer ``
+
+Download the latest get_iplayer CLI release to working directory
+
+`` wget https://raw.githubusercontent.com/get-iplayer/get_iplayer/master/get_iplayer ``
+
+Install get_iplayer CLI script
+
+
+`` sudo install -m 755 ./get_iplayer /usr/local/bin ``
+
+(If /usr/local/bin is not in $PATH, use another location appropriate for your system, e.g., /usr/bin.)
+
+Now you should be able to use get-iplayer from the command line using
+
+``  get_iplayer  ``
+
+
+
+references:
+https://github.com/get-iplayer/get_iplayer/wiki/installation
+https://github.com/get-iplayer/get_iplayer/wiki/unix
